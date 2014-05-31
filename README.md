@@ -1,7 +1,7 @@
 Windows Image Acquisition (WIA)
 ===============================
 
-Tutorial on how to use the Windows Image Acquisition (WIA) platform.
+Tutorial on how to use the Windows Image Acquisition (WIA) platform from  C#.
 
 You can find more information about the code on my blog. The original article was written on 15/11/2011.
 
